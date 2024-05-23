@@ -1,6 +1,6 @@
-# bs-personal-management-v1
+# bs-user-management-v1
 
-_Repositorio de Proyecto de creación de microservicio para el registro de personal(empleados)_
+_Repositorio de Proyecto de creación de microservicio para el registro de usuarios(empleados)_
 
 
 
