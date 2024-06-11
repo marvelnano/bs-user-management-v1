@@ -1,6 +1,5 @@
 package com.example.bs_user_management_v1.controller;
 
-import org.hibernate.annotations.Parameter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

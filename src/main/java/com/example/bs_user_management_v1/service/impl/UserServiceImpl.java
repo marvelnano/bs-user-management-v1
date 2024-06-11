@@ -14,13 +14,12 @@ import com.example.bs_user_management_v1.repository.UserRepository;
 import com.example.bs_user_management_v1.service.UserService;
 import com.example.bs_user_management_v1.util.MapearUserUtil;
 
-import jakarta.transaction.Transactional;
 import lombok.extern.slf4j.Slf4j;
 
 @Service
 @Slf4j
 public class UserServiceImpl implements UserService {
-    private static String msgError = "Error";
+    //private static String msgError = "Error";
 
     @Autowired
     UserRepository userRepository;
