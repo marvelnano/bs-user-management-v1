@@ -1,10 +1,21 @@
 # bs-user-management-v1
 
-_Repositorio de Proyecto de creación de microservicio para el registro de usuarios(empleados)_
+_Repositorio de Proyecto de creación de microservicio para el registro de usuarios(alumnos)_
 
 
 
 ## Getting Started
+
+## Requisitos
+
+- Java 17
+- Springboot
+- Maven
+- Postgres
+
+## Configuración
+
+Para la correcta configuración del servicio, se recomienda usar la configuracione establecida en el archivo `application.properties` del proyecto.
 
 ## Ejecutando las pruebas ⚙️
 
