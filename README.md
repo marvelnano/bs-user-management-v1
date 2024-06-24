@@ -17,6 +17,11 @@ _Abrir el repositorio(proyecto) en VSCode o Spring Tool Suite 4_
 mvnw spring-boot:run
 ```
 
+* En la consola del proyecto en VSCode linux escribir:
+```
+./mvnw spring-boot:run
+```
+
 * En Spring Tool Suite 4 ir a Boot Dashboard, desglosar local, seleccionar el proyecto, click derecho y start:
 
 ### Abrir un cmd en la ubicación del Spring Tool Suite y escribir:
