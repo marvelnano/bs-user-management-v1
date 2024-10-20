@@ -24,7 +24,12 @@ hs_err_pid*
 replay_pid*
 
 HELP.md
+.gwt/
+.settings/
+.mvn/
 target/
+
+#para no ignorar la carpeta así como el archivo
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
