@@ -1,0 +1,18 @@
+## application.yml para microservicio user-service
+server:
+  port: 8086
+
+spring:
+  application:
+    name: bs-user-management-v1
+  ##datasource:
+  ##  driverClassName: org.postgresql.Driver
+  ##  url: jdbc:postgresql://localhost:5432/usersDb
+  ##  username: admin
+  ##  password:
+  ##jpa:
+  ##  hibernate:
+  ##    ddl-auto: create
+  ##  database: postgresql
+  ##  database-platform: org.hibernate.dialect.PostgreSQLDialect
+  ##  defer-datasource-initialization: true
