@@ -11,15 +11,16 @@ _Repositorio de Proyecto de creación de microservicio para el registro de usuar
 - Java 17
 - Springboot
 - Maven
-- Postgres
+- ~~Postgres~~ (Not Enabled)
+- MariaDB (Enabled)
 
 ## Configuración
 
-Para la correcta configuración del servicio, se recomienda usar la configuracione establecida en el archivo `application.properties` del proyecto.
+Para la correcta configuración del servicio, se recomienda usar la configuracione establecida en el archivo ~~`application.properties`~~ `application.yml` del proyecto.
 
 ## Ejecutando las pruebas ⚙️
 
-_Abrir el repositorio(proyecto) en VSCode o Spring Tool Suite 4_
+_Abrir el repositorio(proyecto) en VSCode, Spring Tool Suite 4 o Intellij Idea_
 
 ### Realizar las pruebas de forma local 🔩
 
