@@ -52,7 +52,7 @@ public class UserServiceImpl implements UserService {
 
         response = RespuestaCreadoExito.builder()
             .codigo(HttpStatus.OK.value())
-            .estado("Ok")
+            .estado("Usuario registrado")
             .datos(userRepository.save(user))
             .build();
 
@@ -72,7 +72,7 @@ public class UserServiceImpl implements UserService {
 
             response = RespuestaCreadoExito.builder()
             .codigo(HttpStatus.OK.value())
-            .estado("Ok")
+            .estado("Usuario actualizado")
             .datos(userRepository.save(user))
             .build();
         }else{

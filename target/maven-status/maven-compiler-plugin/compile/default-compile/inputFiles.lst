@@ -1,6 +1,7 @@
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/BsUserManagementV1Application.java
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/configuration/SwaggerConfig.java
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/controller/MiControlador.java
+/home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/controller/UserApi.java
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/controller/UserController.java
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/model/dto/RespuestaCreadoExito.java
 /home/droidmaster/workspace/bs-user-management-v1/src/main/java/com/example/bs_user_management_v1/model/dto/UserRequest.java
