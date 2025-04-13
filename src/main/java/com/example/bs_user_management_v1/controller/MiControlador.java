@@ -16,7 +16,7 @@ public class MiControlador {
             description = "Mensaje de bienvenida que puede ser usando en el FrontEnd",
             tags = {"Bienvenida"},
             requestBody = @RequestBody(
-                    description = "Saludo de Bienvenida",
+                    description = "Saludo de Bienvenida; usar {host}/swagger-ui/index.html para probar el swagger",
                     required = false,
                     content = @Content(
                             mediaType = "application/json"
@@ -33,6 +33,6 @@ public class MiControlador {
             }
     )
     public String saludo() {
-        return "Hola, mundo... User Service!!";
+        return "Hola mundo... User Service!!";
     }
 }
